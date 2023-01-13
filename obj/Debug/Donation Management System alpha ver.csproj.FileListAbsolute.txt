@@ -1,0 +1,22 @@
+c:\users\sadi\documents\visual studio 2012\Projects\Donation Management System alpha ver\Donation Management System alpha ver\bin\Debug\Donation Management System alpha ver.exe.config
+c:\users\sadi\documents\visual studio 2012\Projects\Donation Management System alpha ver\Donation Management System alpha ver\bin\Debug\Donation Management System alpha ver.exe
+c:\users\sadi\documents\visual studio 2012\Projects\Donation Management System alpha ver\Donation Management System alpha ver\bin\Debug\Donation Management System alpha ver.pdb
+c:\users\sadi\documents\visual studio 2012\Projects\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation Management System alpha ver.csprojResolveAssemblyReference.cache
+c:\users\sadi\documents\visual studio 2012\Projects\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation_Management_System_alpha_ver.LoginForm.resources
+c:\users\sadi\documents\visual studio 2012\Projects\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation_Management_System_alpha_ver.Properties.Resources.resources
+c:\users\sadi\documents\visual studio 2012\Projects\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation Management System alpha ver.csproj.GenerateResource.Cache
+c:\users\sadi\documents\visual studio 2012\Projects\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation Management System alpha ver.exe
+c:\users\sadi\documents\visual studio 2012\Projects\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation Management System alpha ver.pdb
+C:\Users\SADI\Documents\Visual Studio 2012\Projects\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation_Management_System_alpha_ver.Forms.RegistrationForm.resources
+C:\Users\SADI\Documents\Visual Studio 2012\Projects\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation_Management_System_alpha_ver.Forms.Home.resources
+C:\Users\user\OneDrive - American International University-Bangladesh\c# Codes\Donation Management System alpha ver\Donation Management System alpha ver\bin\Debug\Donation Management System alpha ver.exe.config
+C:\Users\user\OneDrive - American International University-Bangladesh\c# Codes\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation Management System alpha ver.exe
+C:\Users\user\OneDrive - American International University-Bangladesh\c# Codes\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation Management System alpha ver.pdb
+C:\Users\user\OneDrive - American International University-Bangladesh\c# Codes\Donation Management System alpha ver\Donation Management System alpha ver\bin\Debug\Donation Management System alpha ver.exe
+C:\Users\user\OneDrive - American International University-Bangladesh\c# Codes\Donation Management System alpha ver\Donation Management System alpha ver\bin\Debug\Donation Management System alpha ver.pdb
+C:\Users\user\OneDrive - American International University-Bangladesh\c# Codes\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation Management System alpha ver.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive - American International University-Bangladesh\c# Codes\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation_Management_System_alpha_ver.Forms.Home.resources
+C:\Users\user\OneDrive - American International University-Bangladesh\c# Codes\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation_Management_System_alpha_ver.LoginForm.resources
+C:\Users\user\OneDrive - American International University-Bangladesh\c# Codes\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation_Management_System_alpha_ver.Forms.RegistrationForm.resources
+C:\Users\user\OneDrive - American International University-Bangladesh\c# Codes\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation_Management_System_alpha_ver.Properties.Resources.resources
+C:\Users\user\OneDrive - American International University-Bangladesh\c# Codes\Donation Management System alpha ver\Donation Management System alpha ver\obj\Debug\Donation Management System alpha ver.csproj.GenerateResource.Cache
